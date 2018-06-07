@@ -1,4 +1,18 @@
-#bio_title {
+h3 {
         text-align: center;
-        color: 2F4F4F;
+        color: DarkSlateGrey;
+        font-family: "Times New Roman";
+}
+
+p {
+        text-align: center;
+        font-family: "Times New Roman";
+        border-radius: 25px;
+        border: 2px solid DarkSlateGrey;
+        padding: 20px;
+        width: 350px;
+        height: 185px;
+        margin: auto;
+        padding: 10px;
+
 }
