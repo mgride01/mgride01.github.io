@@ -1,0 +1,28 @@
+h2 {
+        text-align: center;
+        color: DarkSlateGrey;
+        font-family: "Times New Roman";
+}
+
+a:link, a:visited {
+    background-color: grey;
+    color: white;
+    padding: 16px 23px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 12px;
+    float: right;
+    margin-right: 10px;
+}
+
+a:hover, a:active {
+    background-color: black;
+}
+
+img {
+        border-radius: 12px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
