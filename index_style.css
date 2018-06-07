@@ -4,6 +4,13 @@ h2 {
         font-family: "Times New Roman";
 }
 
+h3 {
+    text-align: center;
+    color: DarkSlateGrey;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
 a:link, a:visited {
     background-color: grey;
     color: white;
